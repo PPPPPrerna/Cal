@@ -24,6 +24,8 @@ public class Arrli {
 		
 		Integer[] a = {6,3,7,4,2};
 		
+		System.out.println("cool");
+		
 		
 		int x=9;
 		
@@ -37,6 +39,7 @@ public class Arrli {
 			if(al.get(i)+al.get(1)==x) {
 				
 				System.out.println("value is Temp"+al.get(i) + "and" + al.get(1));
+				System.out.println("cool");
 			}
 			
 			
