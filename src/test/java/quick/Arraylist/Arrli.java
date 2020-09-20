@@ -37,6 +37,9 @@ public class Arrli {
 			if(al.get(i)+al.get(1)==x) {
 				
 				System.out.println("value is Temp"+al.get(i) + "and" + al.get(1));
+				System.out.println("value is Temp"+al.get(i) + "and" + al.get(1));
+				
+				
 			}
 			
 			
